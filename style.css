@@ -1,0 +1,106 @@
+footer
+{
+  position: absolute;
+  bottom: 0px;
+}
+.navbar
+{
+  display: flex;
+  justify-content: flex-end;
+}
+
+.btn
+{
+  border: none;
+  background-color: white;
+  margin: 9px;
+}
+
+.btn_login
+{
+  padding:6px 6px 6px 6px;
+  	background:#478bf9;
+  	color:#fff;
+  	border-radius:2px;
+  	border:none;
+    text-decoration: none;
+    font-size: small;
+}
+
+.logo_google
+{
+  display: flex;
+  justify-content: center;
+  padding-top: 157px;
+  padding-bottom: 30px;
+}
+
+
+.line_btn2
+{
+  display: flex;
+  justify-content: center;
+  padding-top: 20px;
+}
+
+.btn2
+{
+  display: flex;
+  background-color: #F3F3F3;
+  border: none;
+  justify-content: center;
+  height: 40px;
+  margin: 10px;
+  border-radius: 5px;
+}
+
+.btn3
+{
+  background-color: #E5E5E5;
+  border: none;
+  margin: 10px;
+}
+
+.searchbar
+{
+  display: flex;
+  justify-content: center;
+  height: 45px;
+  width: 500px;
+  border: 1px #E5E5E5 solid;
+  border-radius: 25px;
+
+
+}
+.searchbarparent
+{
+  display: flex;
+  justify-content: center;
+
+}
+
+#logo_loupe
+{
+  height: 18px;
+  padding: 13px;
+}
+
+#logo_micro
+{
+  height: 18px;
+  padding: 13px;
+}
+
+input
+{
+  width: 550px;
+  border: none;
+  outline: none;
+}
+
+.navbarfooter
+{
+  display: flex;
+  justify-content: flex-start;
+  background-color: #E5E5E5
+}
